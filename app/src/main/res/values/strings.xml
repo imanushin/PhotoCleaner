@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Photo Cleaner</string>
+    <string name="welcome_text">Приложение может помочь с удалением фотографий, которые уже были синхронизированы с облаками (Google Drive, Microsoft OneDrive, DropBox, Yandex Disk), однако до сих пор занимают место на телефоне. Очищать смартфон можно вручную или автоматически, когда он лежит ночью на зарядке. Самые новые фотографии остаются на телефоне в любом случае (настраивается)</string>
+    <string name="find_button">НАЙТИ</string>
+    <string name="history_button">ИСТОРИЯ</string>
+    <string name="settings_button">НАСТРОЙКИ</string>
 </resources>
